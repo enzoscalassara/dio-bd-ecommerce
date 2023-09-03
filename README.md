@@ -63,4 +63,5 @@ Armazena informações sobre promoções aplicadas a produtos.
 Cada promoção é identificada por um idPromocao exclusivo.
 Registra o produto que está em promoção (idProduto), o desconto aplicado, a data de início e a data de término da promoção.
 Relacionamentos: Essa tabela está relacionada com a tabela Produtos através da chave estrangeira idProduto.
-Este esquema lógico representa as principais entidades e relacionamentos envolvidos em um sistema de comércio eletrônico. Ele permite que informações sobre clientes, produtos, pedidos, pagamentos e entregas sejam gerenciadas de forma organizada e eficiente. Os relacionamentos entre as tabelas garantem a integridade dos dados e permitem consultas complexas
+
+#### Este esquema lógico representa as principais entidades e relacionamentos envolvidos em um sistema de comércio eletrônico. Ele permite que informações sobre clientes, produtos, pedidos, pagamentos e entregas sejam gerenciadas de forma organizada e eficiente. Os relacionamentos entre as tabelas garantem a integridade dos dados e permitem consultas complexas
